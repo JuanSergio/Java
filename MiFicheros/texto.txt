@@ -1,0 +1,2 @@
+ejemplo en el que se accede directamente a una posición del fichero de 
+texto y se convierte a mayúsculas el carácter leído en esa posición
